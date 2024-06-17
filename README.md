@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MVS116">
-    <img src="https://www.smartworld.it/wp-content/uploads/2021/02/nvidia.gif" alt="MasterHead" width="100%" height="44%">
+    <img src="https://www.smartworld.it/wp-content/uploads/2021/02/nvidia.gif" alt="MasterHead" width="100%" height="26%">
   </a>
 </p>
 <h1 align="center">Hi, I am Mohan Vamsi SeethaRam Devalraju</h1>
@@ -8,8 +8,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvs116&label=Profile%20views&color=0e75b6&style=flat" alt="mvs116" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvs116" alt="mvs116" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -50,3 +48,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mvs116&show_icons=true&locale=en" alt="mvs116" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mvs116&" alt="mvs116" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvs116" alt="mvs116" /></a> </p>
