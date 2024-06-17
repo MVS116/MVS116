@@ -31,11 +31,17 @@
 
 - ⚡ Fun fact **,**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohan-vamsi-seetharam-devalraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohan-vamsi-seetharam-devalraju" height="30" width="40" /></a>
-<a href="https://instagram.com/mohanvamsi9899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohanvamsi9899" height="30" width="40" /></a>
-</p>
+  <a href="YOUR_WEBSITE_URL" target="blank"><img align="center" src="URL_TO_WEBSITE_ICON" alt="website" height="30" width="40" /></a>
+  <a href="mailto:YOUR_EMAIL" target="blank"><img align="center" src="URL_TO_EMAIL_ICON" alt="mail" height="30" width="40" /></a>
+  <a href="YOUR_LINKEDIN_PROFILE" target="blank"><img align="center" src="URL_TO_LINKEDIN_ICON" alt="linkedin" height="30" width="40" /></a>
+  <a href="YOUR_INSTAGRAM_PROFILE" target="blank"><img align="center" src="URL_TO_INSTAGRAM_ICON" alt="instagram" height="30" width="40" /></a>
+  <a href="YOUR_FACEBOOK_PROFILE" target="blank"><img align="center" src="URL_TO_FACEBOOK_ICON" alt="facebook" height="30" width="40" /></a>
+  <a href="YOUR_TWITTER_PROFILE" target="blank"><img align="center" src="URL_TO_TWITTER_ICON" alt="twitter" height="30" width="40" /></a>
+  <a href="YOUR_YOUTUBE_CHANNEL" target="blank"><img align="center" src="URL_TO_YOUTUBE_ICON" alt="youtube" height="30" width="40" /></a>
+  <a href= "YOUR_GITHUB_PROFILE "target= "blank "><img align= "center "src= "URL_TO_GITHUB_ICON "alt= "github "height= "30 "width= "40 "/></a>
+</ p >
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
