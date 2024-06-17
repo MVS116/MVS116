@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MVS116">
-    <img src="https://www.smartworld.it/wp-content/uploads/2021/02/nvidia.gif" alt="MasterHead" width="100%" height="26%">
+    <img src="https://www.smartworld.it/wp-content/uploads/2021/02/nvidia.gif" alt="MasterHead" width="50%" height="50%">
   </a>
 </p>
 <h1 align="center">Hi, I am Mohan Vamsi SeethaRam Devalraju</h1>
