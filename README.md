@@ -1,11 +1,11 @@
-<p align="center">
+<p align="left">
   <a href="https://github.com/MVS116">
-    <img src="https://www.smartworld.it/wp-content/uploads/2021/02/nvidia.gif" alt="MasterHead" width="50%" height="50%">
+  <img src="https://raw.githubusercontent.com/MVS116/githubimagesmvs/main/bannerlinkedin.png" alt="banner" width="100%" height="100%"/>
   </a>
 </p>
 <h1 align="center">Hi, I am Mohan Vamsi SeethaRam Devalraju</h1>
 <h3 align="center">Digital Design and Verification Engineer Aspirant from Vijayawada</h3>
-
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvs116&label=Profile%20views&color=0e75b6&style=flat" alt="mvs116" /> </p>
 
