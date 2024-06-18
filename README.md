@@ -4,8 +4,7 @@
   </a>
 </p>
 <h1 align="center">Hi, I am Mohan Vamsi SeethaRam Devalraju</h1>
-<h3 align="center">Digital Design and Verification Engineer Aspirant from Vijayawada</h3>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Digital Design and Verification Engineer Aspirant from Vijayawada, residing in Bengaluru/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mvs116&label=Profile%20views&color=0e75b6&style=flat" alt="mvs116" /> </p>
 
