@@ -10,11 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 Advanced VLSI Design and Verification Trainee at **Maven Silicon VLSI Training Centre, Bengaluru**
+
 - 🌱 I’m currently working on [RISC-V RV32I Multi-Stage Pipeline processor RTL Design](https://github.com/MVS116/MohanVamsiDevalrajuProjects8)
 
-- 🌱 I’m currently learning **RISC-V processor RTL Design, Communication Interfaces and Bus Protocols, Linux, Data Structures and Algorithms using C++**
+- 🌱 Know about my experiences [https://github.com/MVS116/MohanVamsiDevalrajuResume](https://github.com/MVS116/MohanVamsiDevalrajuResume)
 
-- 🌱 Advanced VLSI Design and Verification Trainee at **Maven Silicon VLSI Training Centre, Bengaluru**
+- 🌱 Learning **RISC-V processor RTL Design, Communication Interfaces and Bus Protocols, Linux, Data Structures and Algorithms using C++, Computer Organization and Architecture,
 
 - Aspiring to excel in semiconductor industry, Determined to apply my skills and hands-on project experience in VLSI Digital Design and Verification. **,**
 
@@ -24,9 +26,7 @@
 
 - 💬 Ask me about **Physics, ASIC/ FPGA/ SOC, C, C++, Verilog, SystemVerilog, UVM, IOT, VLSI**
 
-- 📫 How to reach me **mohanvamsidevalraju@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/MVS116/MohanVamsiDevalrajuResume](https://github.com/MVS116/MohanVamsiDevalrajuResume)
+- 📫 How to reach me **mohanvamsidevalraju@gmail.com** or contact +91-6301270276
 
 - ⚡ Fun fact **,**
 
