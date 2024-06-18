@@ -11,8 +11,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="circuit" width="400" src="https://www.smartworld.it/wp-content/uploads/2021/02/nvidia.gif">
 
-- 🌱 Advanced VLSI Design and Verification Trainee at
-  **Maven Silicon VLSI Training Centre, Bengaluru**
+- 🌱 Advanced VLSI Design and Verification Trainee at <br>**Maven Silicon VLSI Training Centre, Bengaluru**
 
 - 🌱 Currently Working on [RISC-V RV32I Multi-Stage Pipeline processor RTL Design](https://github.com/MVS116/MohanVamsiDevalrajuProjects8)
 
