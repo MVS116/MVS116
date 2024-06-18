@@ -11,17 +11,17 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="circuit" width="400" src="https://www.smartworld.it/wp-content/uploads/2021/02/nvidia.gif">
 
-- 🌱 Advanced VLSI Design and Verification Trainee at <br>**Maven Silicon VLSI Training Centre, Bengaluru**
+- 🌱 Advanced VLSI Design and Verification Trainee at <br>**Maven Silicon VLSI Training Centre, Bengaluru** and <br> B.Tech ECE 2023 passed out from K L University, Vijayawada
 
-- 🌱 Currently Working on [RISC-V RV32I Multi-Stage Pipeline processor RTL Design](https://github.com/MVS116/MohanVamsiDevalrajuProjects8)
+- 🌱 Currently Working on [RISC-V RV32I Multi-Stage Pipeline processor RTL Design](https://github.com/MVS116/MohanVamsiDevalrajuProjects8) Project
 
-- 🌱 Know about my experiences [https://github.com/MVS116/MohanVamsiDevalrajuResume](https://github.com/MVS116/MohanVamsiDevalrajuResume)
+- 🌱 Know about my experiences on CV / RESUME [https://github.com/MVS116/MohanVamsiDevalrajuResume](https://github.com/MVS116/MohanVamsiDevalrajuResume)
 
-- 🌱 Learning **RISC-V processor RTL Design, Communication Interfaces and Bus Protocols, Linux, Data Structures and Algorithms using C++, Computer Organization and Architecture,
+- 🌱 Learning RISC-V processor RTL Design, Communication Interfaces and Bus Protocols, Linux, Data Structures and Algorithms using C++, Computer Organization and Architecture,
 
 - Aspiring to excel in semiconductor industry, Determined to apply my skills and hands-on project experience in VLSI Digital Design and Verification. **,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MVS116](https://github.com/MVS116)
+- 👨‍💻 All of my projects are available at [https://github.com/MVS116?tab=repositories])
 
 - 📝 I am Active on LinkedIn [https://www.linkedin.com/in/mohan-vamsi-seetharam-devalraju/](https://www.linkedin.com/in/mohan-vamsi-seetharam-devalraju/)
 
